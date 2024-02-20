@@ -3,12 +3,12 @@ This repository contains fundamental Python programming examples focusing on seq
 
 Contents:-
 1. Sequence Statements:-
-    a) Sequential execution of statements in Python.
+    a) Sequential execution of statements in Python.**
 
 
    
 2. Selection:-
-     a) if Statements: Single conditional execution.
-     b) if-else Statements: Binary conditional execution.
-     c) elif Statements: Multiple conditional execution.
-     d) Nested if Statements: Conditional execution within conditional blocks.
+     a) if Statements: Single conditional execution.**
+     b) if-else Statements: Binary conditional execution.**
+     c) elif Statements: Multiple conditional execution.**
+     d) Nested if Statements: Conditional execution within conditional blocks.**
