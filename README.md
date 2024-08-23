@@ -12,14 +12,6 @@ This tutorial covers various Python concepts, from beginner to advanced levels. 
 - **Intermediate**: Functions, modules, file handling, and exception handling.
 - **Advanced**: Object-oriented programming, data analysis, and more.
 
-## 🚀 Getting Started
-
-To get started with the tutorials, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/python-tutorial.git
-cd python-tutorial
-
 
 ## Installation
 
