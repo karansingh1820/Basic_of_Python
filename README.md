@@ -79,7 +79,7 @@ To run the Python tutorials, you need to have Python installed on your system. F
 
 To contribute or customize the Python tutorials, you can fork the repository:
 
-1. Go to the [repository page](https://github.com/yourusername/python-tutorial).
+1. Go to the [repository page](https://github.com/karansingh1820/Python_Tutorial).
 2. Click on the **Fork** button at the top-right corner of the page.
 3. This creates a copy of the repository under your GitHub account.
 
